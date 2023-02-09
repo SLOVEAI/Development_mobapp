@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/ClashDisplay-Bold.ttf",
+      "sha1": "ad48ac96269d34e5ac4b3149edc0720f118fac06"
+    },
+    {
+      "path": "assets/fonts/ClashDisplay-Light.ttf",
+      "sha1": "8690274d9e6e5287f0f34f989c46019d97183196"
+    },
+    {
+      "path": "assets/fonts/ClashDisplay-Medium.ttf",
+      "sha1": "3ab838ddae9140be8d61192e527ac5c526361038"
+    },
+    {
+      "path": "assets/fonts/ClashDisplay-Regular.ttf",
+      "sha1": "18352f4b2de32328e43311a0365af391ded2bc0a"
+    },
+    {
+      "path": "assets/fonts/ClashDisplay-Semibold.ttf",
+      "sha1": "0837f8844612c82b5067d898d3f0619af9aa86fa"
+    },
+    {
+      "path": "assets/fonts/ClashDisplay-Variable.ttf",
+      "sha1": "63e020df60007f8077f7d2b86a5cc2573fb26022"
+    }
+  ]
+}
